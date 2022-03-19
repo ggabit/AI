@@ -45,6 +45,7 @@ Soluția finală este obținută în momentul în care temperatura devine 0.
 
 
 3.	Rezultate experimentale
+
 a)	Algoritmul Hillclimbing
 •	itMax = 100
 Am obținut:
@@ -126,6 +127,7 @@ Soluția finală este obținută în momentul în care ajung la generația 500.
 
 
 3.	Rezultate experimentale
+
 a)	Algoritmul Hillclimbing
 •	itMax = 100
 Am obținut:
