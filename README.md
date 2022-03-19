@@ -9,29 +9,8 @@ Probleme de optimizare discretă: Problema rucsacului
 1.	Descrierea problemei
 
 Fie n obiecte, fiecare având o valoare și o greutate. Trebuie găsit un set de obiecte din cele n, ce pot fi plasate într-un rucsac ce are o capacitate dată, astfel încât valoarea totală a obiectelor alese să fie cât mai mare.
-S-au folosit ca date de test 20 de obiecte prezentate în tabelul de mai jos, și un rucsac de capacitate 879. Datele vor fi citite din fișier. Soluția optimă este 1025.
+S-au folosit ca date de test 20 de obiecte, și un rucsac de capacitate 879. Datele vor fi citite din fișier. Soluția optimă este 1025.
 
-#	Valoare	Greutate
-1	91	84
-2	72	83
-3	90	43
-4	46	4
-5	55	44
-6	8	6
-7	35	82
-8	75	92
-9	61	25
-10	15	83
-11	77	56
-12	40	18
-13	63	58
-14	75	14
-15	29	48
-16	75	70
-17	17	96
-18	78	32
-19	40	68
-20	44	92
 
 
 2.	Detalii de aplicare a algoritmilor
@@ -69,37 +48,7 @@ Soluția finală este obținută în momentul în care temperatura devine 0.
 a)	Algoritmul Hillclimbing
 •	itMax = 100
 
-#Rulare	Evaluarea soluției
-1	323
-2	616
-3	464
-4	358
-5	632
-6	555
-7	464
-8	599
-9	442
-10	307
-11	445
-12	625
-13	539
-14	626
-15	700
-16	746
-17	524
-18	480
-19	601
-20	480
-21	666
-22	542
-23	464
-24	541
-25	396
-26	578
-27	529
-28	525
-29	728
-30	579
+
 
 b)	Algoritmul Simulated Annealing
 •	itMax = 100
